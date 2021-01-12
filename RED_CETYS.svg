@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="8316.615"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-4129.614746 -1100.977783 8316.615234 3002.480957"
+     height="3002.481" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 4176.953125,123.193359 C 3966.240479,214.596222 3513.067383,35.631561 3421.664307,-175.081085"
+              class="id_AMANDA_COLUMBA_REAL_BELTRAN id_Escuela_de_Derecho_Mexicali"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1907.450928,557.125000 C -1813.863281,633.304749 -1787.751587,887.955750 -1863.931274,981.543335"
+              class="id_Antonieta_Bobes_León id_Instituto_de_Neurociencias_de_Cuba"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 958.428101,274.487457 C 1036.956543,25.526459 1528.190674,-230.122299 1777.151733,-151.593826"
+              class="id_Carlos_Antonio_González_Palacios id_Escuela_de_Humanidades_Mexicali"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 958.428101,274.487457 C 1016.081726,376.248840 949.919983,615.371338 848.158569,673.024963"
+              class="id_Carlos_Antonio_González_Palacios id_COBINA_A.C"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 958.428101,274.487457 C 1037.954712,390.175964 983.711975,682.998718 868.023438,762.525391"
+              class="id_Carlos_Antonio_González_Palacios id_Sistema_Educativo_Estatal"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 958.428101,274.487457 C 996.639160,362.930695 921.290833,552.912109 832.847595,591.123169"
+              class="id_Carlos_Antonio_González_Palacios id_IAMSA"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -452.233124,40.319702 C -476.770081,-64.387779 -356.514282,-258.254425 -251.806793,-282.791382"
+              class="id_Cecilia_Osuna_Lever id_Educación_Ensenada"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -452.233124,40.319702 C -343.485779,179.907562 -389.746582,552.410339 -529.334473,661.157654"
+              class="id_Cecilia_Osuna_Lever id_Ramón_Minguez_Vallejos"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -452.233124,40.319702 C -332.940582,110.115601 -258.695587,393.748230 -328.491486,513.040771"
+              class="id_Cecilia_Osuna_Lever id_Maria_Eugenia_Medina_Barrios"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 668.053345,476.341614 C 615.195557,751.432922 123.272049,1084.783203 -151.819275,1031.925537"
+              class="id_Celestino_Fernández id_Arizona_State_University"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -79.794937,-688.517700 C -382.017578,-264.325928 -1471.639160,-81.372253 -1895.830933,-383.594910"
+              class="id_CETYS_UNIVERSIDAD id_CETYS_Universidad_Campus_Tijuana"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -79.794937,-688.517700 C 443.521118,-1100.977783 1847.185425,-934.693848 2259.645508,-411.377747"
+              class="id_CETYS_UNIVERSIDAD id_CETYS_Universidad_Campus_Mexicali"
+              stroke-opacity="1.0" stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -79.794937,-688.517700 C -30.537479,-642.179565 -26.158527,-498.786133 -72.496689,-449.528656"
+              class="id_CETYS_UNIVERSIDAD id_CETYS_Universidad_Campus_Ensenada"
+              stroke-opacity="1.0" stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.496689,-449.528656 C -16.065981,-452.863678 73.582619,-373.220184 76.917641,-316.789459"
+              class="id_CETYS_Universidad_Campus_Ensenada id_Escuela_de_Psicología_Ensenada"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.496689,-449.528656 C 60.561989,-509.456665 350.042023,-399.760681 409.970032,-266.701996"
+              class="id_CETYS_Universidad_Campus_Ensenada id_Escuela_de_Humanidades_Ensenada"
+              stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.496689,-449.528656 C -132.129120,-314.230621 -424.524841,-200.732239 -559.822876,-260.364685"
+              class="id_CETYS_Universidad_Campus_Ensenada id_Escuela_de_Derecho_Ensenada"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -72.496689,-449.528656 C -75.011261,-380.319183 -182.597305,-280.276794 -251.806793,-282.791382"
+              class="id_CETYS_Universidad_Campus_Ensenada id_Educación_Ensenada"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2259.645508,-411.377747 C 2352.434326,-408.385345 2487.128662,-264.713806 2484.136230,-171.925140"
+              class="id_CETYS_Universidad_Campus_Mexicali id_Escuela_de_Psicología_Mexicali"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2259.645508,-411.377747 C 2215.103516,-262.922211 1925.607300,-107.051865 1777.151733,-151.593826"
+              class="id_CETYS_Universidad_Campus_Mexicali id_Escuela_de_Humanidades_Mexicali"
+              stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2259.645508,-411.377747 C 2539.308594,-596.522217 3236.519775,-454.744202 3421.664307,-175.081085"
+              class="id_CETYS_Universidad_Campus_Mexicali id_Escuela_de_Derecho_Mexicali"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2259.645508,-411.377747 C 2082.603516,-146.524124 1419.760132,-14.806610 1154.906494,-191.848572"
+              class="id_CETYS_Universidad_Campus_Mexicali id_Educación_Mexicali"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1895.830933,-383.594910 C -2032.859863,-146.239319 -2594.436768,4.250626 -2831.792236,-132.778320"
+              class="id_CETYS_Universidad_Campus_Tijuana id_Escuela_de_Psicología_Tijuana"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1895.830933,-383.594910 C -1624.723755,-555.852905 -959.676025,-407.579224 -787.418030,-136.472061"
+              class="id_CETYS_Universidad_Campus_Tijuana id_Escuela_de_Humanidades_Tijuana"
+              stroke-opacity="1.0" stroke="#b98a42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1895.830933,-383.594910 C -1727.875977,-452.564026 -1372.490112,-304.085449 -1303.520996,-136.130569"
+              class="id_CETYS_Universidad_Campus_Tijuana id_Escuela_de_Derecho_Tijuana"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1895.830933,-383.594910 C -1815.239868,-366.604462 -1719.839111,-220.232300 -1736.829590,-139.641312"
+              class="id_CETYS_Universidad_Campus_Tijuana id_Educación_Tijuana"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2177.099365,91.319733 C 2185.857910,-22.736614 2370.079834,-180.683548 2484.136230,-171.925140"
+              class="id_Daniela_Patricia_Diaz_Flores id_Escuela_de_Psicología_Mexicali"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2177.099365,91.319733 C 1916.516113,684.236206 636.266602,1182.735840 43.350128,922.152588"
+              class="id_Daniela_Patricia_Diaz_Flores id_Universidad_Autónoma_de_Baja_California"
+              stroke-opacity="1.0" stroke="#00c0c9"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2177.099365,91.319733 C 2338.406494,206.849976 2407.072266,622.106201 2291.541992,783.413513"
+              class="id_Daniela_Patricia_Diaz_Flores id_Universidad_Autónoma_de_Nayarit"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2177.099365,91.319733 C 2361.255127,147.607864 2553.056152,508.273468 2496.768066,692.429077"
+              class="id_Daniela_Patricia_Diaz_Flores id_Universidad_Michoacana"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2177.099365,91.319733 C 2311.734863,160.425858 2410.029053,466.038300 2340.922852,600.673828"
+              class="id_Daniela_Patricia_Diaz_Flores id_Universidad_de_Guanajuato"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2177.099365,91.319733 C 2451.117432,114.154800 2827.891846,559.434448 2805.056885,833.452515"
+              class="id_Daniela_Patricia_Diaz_Flores id_Universidad_Autónoma_de_Aguascalientes"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2177.099365,91.319733 C 2357.858398,232.473373 2417.267090,715.342651 2276.113281,896.101868"
+              class="id_Daniela_Patricia_Diaz_Flores id_Universidad_Autónoma_del_Estado_de_Morelos"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2177.099365,91.319733 C 2258.892822,146.921783 2298.180420,353.015259 2242.578369,434.808899"
+              class="id_Daniela_Patricia_Diaz_Flores id_CONACyT"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.232239,47.662918 C 334.506805,-18.357630 343.949493,-206.976563 409.970032,-266.701996"
+              class="id_David_Alejandro_Ornelas_Gutiérrez id_Escuela_de_Humanidades_Ensenada"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 394.232239,47.662918 C 445.581970,412.281464 -24.321152,1036.233887 -388.939697,1087.583618"
+              class="id_David_Alejandro_Ornelas_Gutiérrez id_RIDIPD"
+              stroke-opacity="1.0" stroke="#e9849a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1026.754517,-15.778580 C -1003.025879,-87.784576 -859.424011,-160.200653 -787.418030,-136.472061"
+              class="id_Dora_Yéssica_Caudillo_Ruiz id_Escuela_de_Humanidades_Tijuana"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -466.321045,165.276657 C -590.890198,169.146301 -783.548340,-11.902916 -787.418030,-136.472061"
+              class="id_Edgar_Antonio_Madrid id_Escuela_de_Humanidades_Tijuana"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -466.321045,165.276657 C -450.970032,213.178696 -499.796631,308.058228 -547.698669,323.409210"
+              class="id_Edgar_Antonio_Madrid id_Observatorio_Filosófico_del_Norte"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -466.321045,165.276657 C -493.757507,233.837296 -637.753235,295.523499 -706.313843,268.087006"
+              class="id_Edgar_Antonio_Madrid id_Centro_32" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -466.321045,165.276657 C -365.094177,403.132446 -570.037598,911.756409 -807.893372,1012.983276"
+              class="id_Edgar_Antonio_Madrid id_Instituto_Municipal_de_la_Mujer"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1160.797119,193.679276 C 1215.013428,1.353737 1584.826294,-205.810120 1777.151733,-151.593826"
+              class="id_Francisco_Alberto_Núñez_Tapia id_Escuela_de_Humanidades_Mexicali"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1160.797119,193.679276 C 1234.925415,268.511658 1233.869263,491.952698 1159.036865,566.080994"
+              class="id_Francisco_Alberto_Núñez_Tapia id_El_Colegio_de_la_Frontera_Norte"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1160.797119,193.679276 C 690.002808,675.745728 -739.288452,692.653931 -1221.354858,221.859650"
+              class="id_Francisco_Alberto_Núñez_Tapia id_Jorge_Francisco_Sánchez_López"
+              stroke-opacity="1.0" stroke="#5f831f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1160.797119,193.679276 C 1062.033813,208.329285 891.914124,82.159500 877.264099,-16.603714"
+              class="id_Francisco_Alberto_Núñez_Tapia id_Mayer_Rainiero_Cabrera_Flores"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2697.527588,166.242310 C -2784.184814,133.291122 -2864.743408,-46.121269 -2831.792236,-132.778320"
+              class="id_Gustavo_Morelos_Padilla_Gallegos id_Escuela_de_Psicología_Tijuana"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1309.702393,108.215973 C -1254.183105,-45.178516 -940.812500,-191.991333 -787.418030,-136.472061"
+              class="id_Heberto_X_Peterson_R id_Escuela_de_Humanidades_Tijuana"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -3145.311523,2.108894 -2947.807373,-148.432556 -2831.792236,-132.778320"
+              class="id_Hernán_Partida_Ramírez id_Escuela_de_Psicología_Tijuana"
+              stroke-opacity="1.0" stroke="#ff6e44"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -2428.339111,-71.157379 -1045.477417,743.860352 -856.195862,1476.486816"
+              class="id_Hernán_Partida_Ramírez id_CNEIP" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -3013.057861,149.565460 -2838.358154,418.589417 -2869.799316,566.497375"
+              class="id_Hernán_Partida_Ramírez id_RIEFBC" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -2946.911377,123.740173 -2634.253662,453.246094 -2639.869629,667.300659"
+              class="id_Hernán_Partida_Ramírez id_Instituto_Municipal_Contra_las_Adicciones"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -3093.767822,223.751785 -3151.412598,482.990173 -3257.040283,550.188049"
+              class="id_Hernán_Partida_Ramírez id_Instituto_Contra_las_Adicciones_de_BC"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -3017.259277,128.632004 -2817.461426,359.953674 -2827.969238,503.660217"
+              class="id_Hernán_Partida_Ramírez id_Centro_de_Integración_Juvenil"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -2938.245117,70.079132 -2532.096680,332.092682 -2484.051758,554.813354"
+              class="id_Hernán_Partida_Ramírez id_Hospital_de_Salud_Mental_de_Tijuana"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -3103.322266,193.651459 -3130.147949,393.407837 -3205.675293,451.051392"
+              class="id_Hernán_Partida_Ramírez id_Comisión_Estatal_del_Sistema_Penitenciario"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3160.965820,118.124100 C -3051.783447,205.681076 -3019.345459,500.790100 -3106.902344,609.972473"
+              class="id_Hernán_Partida_Ramírez id_Centro_Espacio_Mente_Sana"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 3514.599854,136.190857 C 3246.883789,280.660400 2628.605713,95.790802 2484.136230,-171.925140"
+              class="id_IBZA_AMERICA_GARCIA_LEON id_Escuela_de_Psicología_Mexicali"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -878.135498,178.407028 C -900.927612,260.733948 -1058.606079,350.036194 -1140.932983,327.244110"
+              class="id_Ingrid_Kuri_Alonso id_INNSIGNIA" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -878.135498,178.407028 C -922.967834,97.287720 -868.537354,-91.639740 -787.418030,-136.472061"
+              class="id_Ingrid_Kuri_Alonso id_Escuela_de_Humanidades_Tijuana"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2598.066650,147.306641 C 2511.434082,106.246368 2443.075928,-85.292694 2484.136230,-171.925140"
+              class="id_Ivon_Aidé_Guerrero_Ceballos id_Escuela_de_Psicología_Mexicali"
+              stroke-opacity="1.0" stroke="#7fa682"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2598.066650,147.306641 C 2173.050293,1103.995239 100.492737,1901.503296 -856.195862,1476.486816"
+              class="id_Ivon_Aidé_Guerrero_Ceballos id_CNEIP"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2598.066650,147.306641 C 2709.579102,178.216629 2830.482666,391.850342 2799.572754,503.362762"
+              class="id_Ivon_Aidé_Guerrero_Ceballos id_Educación_Solidaria_de_las_Californias"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2598.066650,147.306641 C 2734.305908,126.268883 2970.221436,299.071045 2991.259033,435.310242"
+              class="id_Ivon_Aidé_Guerrero_Ceballos id_Gulfstream"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2598.066650,147.306641 C 2670.441162,195.498230 2706.715332,376.347351 2658.523926,448.721863"
+              class="id_Ivon_Aidé_Guerrero_Ceballos id_AUTOPasion"
+              stroke-opacity="1.0" stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1524.121216,282.776093 C 1487.853271,145.295990 1639.671631,-115.325935 1777.151733,-151.593826"
+              class="id_Jorge_Arturo_Ortega_Acevedo id_Escuela_de_Humanidades_Mexicali"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1524.121216,282.776093 C 1598.048950,418.956024 1504.670532,734.117432 1368.490601,808.045166"
+              class="id_Jorge_Arturo_Ortega_Acevedo id_Secretaría_de_Cultura_de_México"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1524.121216,282.776093 C 1619.688599,422.366638 1553.653809,775.103516 1414.063232,870.670898"
+              class="id_Jorge_Arturo_Ortega_Acevedo id_Secretaría_de_Cultura_de_Baja_California"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1524.121216,282.776093 C 1575.053589,405.664764 1467.119141,666.396301 1344.230469,717.328674"
+              class="id_Jorge_Arturo_Ortega_Acevedo id_Secretaría_de_Cultura_de_Jalisco"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1524.121216,282.776093 C 1553.106201,398.317535 1423.271484,615.107178 1307.730103,644.092224"
+              class="id_Jorge_Arturo_Ortega_Acevedo id_Instituto_Sinaloense_de_Cultura"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1221.354858,221.859650 C -1206.233887,63.405930 -945.871704,-151.593079 -787.418030,-136.472061"
+              class="id_Jorge_Francisco_Sánchez_López id_Escuela_de_Humanidades_Tijuana"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1221.354858,221.859650 C -1120.107300,342.995605 -1149.939819,676.570984 -1271.075806,777.818542"
+              class="id_Jorge_Francisco_Sánchez_López id_Sistema_Local_de_Prevención_de_la_Violencia"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1221.354858,221.859650 C -980.437866,297.392090 -732.360962,772.066223 -807.893372,1012.983276"
+              class="id_Jorge_Francisco_Sánchez_López id_Instituto_Municipal_de_la_Mujer"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1221.354858,221.859650 C -1184.193604,226.852158 -1135.940430,290.082825 -1140.932983,327.244110"
+              class="id_Jorge_Francisco_Sánchez_López id_INNSIGNIA"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1553.506104,31.200623 C -1109.316162,9.563950 -410.576355,643.393738 -388.939697,1087.583618"
+              class="id_José_Luis_Bonilla_Esquivel id_RIDIPD"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1553.506104,31.200623 C -1624.339111,33.696930 -1734.333252,-68.808228 -1736.829590,-139.641312"
+              class="id_José_Luis_Bonilla_Esquivel id_Educación_Tijuana"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -738.804993,91.316879 C -794.085388,55.481693 -823.253235,-81.191658 -787.418030,-136.472061"
+              class="id_José_Luis_Espinosa_Garza id_Escuela_de_Humanidades_Tijuana"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -738.804993,91.316879 C -690.156921,229.193481 -823.999756,508.980469 -961.876343,557.628540"
+              class="id_José_Luis_Espinosa_Garza id_Promotora_de_Bellas_Artes"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -738.804993,91.316879 C -674.056152,242.057556 -803.043823,565.291931 -953.784485,630.040771"
+              class="id_José_Luis_Espinosa_Garza id_Create_Purpose"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -738.804993,91.316879 C -717.603455,185.982208 -827.799194,359.782440 -922.464478,380.983978"
+              class="id_José_Luis_Espinosa_Garza id_Best_Buddies"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -738.804993,91.316879 C -682.328186,170.802185 -716.840881,374.745361 -796.326233,431.222168"
+              class="id_José_Luis_Espinosa_Garza id_Pro-Salud"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -738.804993,91.316879 C -696.952759,120.172676 -677.458069,226.234741 -706.313843,268.087006"
+              class="id_José_Luis_Espinosa_Garza id_Centro_32"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -738.804993,91.316879 C -701.485596,210.452423 -824.209839,445.134796 -943.345398,482.454163"
+              class="id_José_Luis_Espinosa_Garza id_Sonoran_Institute"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2965.791992,79.951675 C 3093.961670,105.205757 3248.335205,335.341461 3223.081055,463.511200"
+              class="id_Josman_Espinosa_Gómez id_FIMPES" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2965.791992,79.951675 C 2819.085449,125.907463 2530.091797,-25.218620 2484.136230,-171.925140"
+              class="id_Josman_Espinosa_Gómez id_Escuela_de_Psicología_Mexicali"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 2965.791992,79.951675 C 1935.240845,1129.586060 -1185.037231,1158.210938 -2234.671631,127.659760"
+              class="id_Josman_Espinosa_Gómez id_Daniel_Nikolaus_Álvarez_Nuñez"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.242828,27.395714 C -202.193054,-6.728916 -285.931427,-192.841171 -251.806793,-282.791382"
+              class="id_karla_maria_diaz_lopez id_Educación_Ensenada"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.242828,27.395714 C 40.371704,211.916931 -7.488297,717.620483 -192.009506,870.235046"
+              class="id_karla_maria_diaz_lopez id_Universidad_Complutense_de_Madrid"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.242828,27.395714 C 0.826164,83.358841 86.484970,336.907013 30.521851,449.976013"
+              class="id_karla_maria_diaz_lopez id_Sístema_Educativo_Estatal_sede_Ensenada"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.242828,27.395714 C -177.656097,97.978577 -381.650238,105.732971 -452.233124,40.319702"
+              class="id_karla_maria_diaz_lopez id_Cecilia_Osuna_Lever"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.242828,27.395714 C 21.224098,93.510223 122.252724,392.882385 56.138214,526.349304"
+              class="id_karla_maria_diaz_lopez id_Ramiro_Avila_Godoy"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.242828,27.395714 C -0.560188,60.481518 117.335083,277.634186 84.249275,389.316833"
+              class="id_karla_maria_diaz_lopez id_Ana_Gabriela_Kong_Toledo"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.242828,27.395714 C 5.465836,147.436646 1.967438,504.061005 -118.073486,621.769653"
+              class="id_karla_maria_diaz_lopez id_Ana_Maricell_Estada_Ureña"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1525.169678,108.322388 C 1523.582764,5.942741 1674.772095,-150.006989 1777.151733,-151.593826"
+              class="id_Liliana_López_León id_Escuela_de_Humanidades_Mexicali"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1914.106812,196.376999 C -1377.460327,-49.959259 -202.986130,385.506134 43.350128,922.152588"
+              class="id_Manuel_Alejandro_Mejía_Ramírez id_Universidad_Autónoma_de_Baja_California"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1914.106812,196.376999 C -1785.130615,174.230576 -1558.446777,334.475159 -1536.300415,463.451294"
+              class="id_Manuel_Alejandro_Mejía_Ramírez id_Universidad_Pontificia_de_Salamanca"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1914.106812,196.376999 C -1840.625977,267.195435 -1836.632568,483.644226 -1907.450928,557.125000"
+              class="id_Manuel_Alejandro_Mejía_Ramírez id_Antonieta_Bobes_León"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1914.106812,196.376999 C -1813.189941,218.097412 -1694.395264,402.053375 -1716.115601,502.970276"
+              class="id_Manuel_Alejandro_Mejía_Ramírez id_Colegio_de_Psicólogos_de_Baja_California"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1914.106812,196.376999 C -1811.317139,267.009003 -1763.080688,527.141418 -1833.712646,629.931091"
+              class="id_Manuel_Alejandro_Mejía_Ramírez id_Comité_para_organizar_al_Colegio_de_Neuropsicólogos_de_Tijuana"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1914.106812,196.376999 C -1889.404297,270.223663 -1963.120605,418.047394 -2036.967163,442.749908"
+              class="id_Manuel_Alejandro_Mejía_Ramírez id_Asociación_de_Alzheimer."
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1914.106812,196.376999 C -2289.785645,537.226685 -3364.578613,484.982788 -3705.428223,109.303879"
+              class="id_Manuel_Alejandro_Mejía_Ramírez id_0"
+              stroke-opacity="1.0" stroke="#005e4a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.189209,184.169144 C 1705.229126,115.824043 1708.806641,-85.633736 1777.151733,-151.593826"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo id_Escuela_de_Humanidades_Mexicali"
+              stroke-opacity="1.0" stroke="#86837f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.189209,184.169144 C 1850.614868,234.955399 1893.573730,430.273132 1842.787476,509.698669"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo id_El_Buen_Pastor"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.189209,184.169144 C 1900.643677,287.751617 1939.451538,637.307007 1835.869141,766.761414"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo id_Hele_Keller"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.189209,184.169144 C 1875.119751,241.253265 1945.389282,482.775238 1888.305176,586.705750"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo id_TMONA"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.189209,184.169144 C 1870.009399,263.301605 1899.540771,530.230469 1820.408325,629.050537"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo id_Gente_por_los_animales"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.189209,184.169144 C 1907.226440,244.713715 2020.465576,539.586548 1959.921021,675.623840"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo id_CAHOVA"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.189209,184.169144 C 1841.275513,219.666138 1893.159546,378.041107 1857.662598,448.127441"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo id_Abuela_Cachanilla"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 1771.189209,184.169144 C 1945.801636,331.856201 1986.189819,815.305481 1838.502686,989.917908"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo id_Secretaría_de_Economía_Sustentable_y_Turismo_del_Estado_de_B.C."
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1791.096802,82.223396 C -1824.616333,26.997009 -1792.055908,-106.121811 -1736.829590,-139.641312"
+              class="id_Melanie_Elizabeth_Montes_Silva id_Educación_Tijuana"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.079590,110.430923 C 124.231102,-17.573746 281.965363,-243.853516 409.970032,-266.701996"
+              class="id_Mónica_Inés_Monsiváis_Almada id_Escuela_de_Humanidades_Ensenada"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.079590,110.430923 C 310.693420,213.635452 401.307404,613.862976 298.102875,777.476807"
+              class="id_Mónica_Inés_Monsiváis_Almada id_Casa_Hogar_Santa_Teresita"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.079590,110.430923 C 333.212189,211.992538 460.068665,643.533813 358.507050,829.666443"
+              class="id_Mónica_Inés_Monsiváis_Almada id_Escuela_Primaria_Maestros_de_Baja_California"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.079590,110.430923 C 297.824585,194.320267 398.108063,546.271729 314.218719,697.016724"
+              class="id_Mónica_Inés_Monsiváis_Almada id_Albergue_Temeporal_de_Niños"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.079590,110.430923 C 284.299805,167.435120 404.623871,458.771698 347.619690,595.991943"
+              class="id_Mónica_Inés_Monsiváis_Almada id_Casa_Hogar_del_anciano"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.079590,110.430923 C 183.956512,48.446789 332.248108,10.785988 394.232239,47.662918"
+              class="id_Mónica_Inés_Monsiváis_Almada id_David_Alejandro_Ornelas_Gutiérrez"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.079590,110.430923 C 78.608063,145.688370 -76.985382,95.867241 -112.242828,27.395714"
+              class="id_Mónica_Inés_Monsiváis_Almada id_karla_maria_diaz_lopez"
+              stroke-opacity="1.0" stroke="#d99ed7"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 147.079590,110.430923 C 291.475647,179.717026 404.140564,500.240234 334.854492,644.636292"
+              class="id_Mónica_Inés_Monsiváis_Almada id_Roxana_Gutiérrez_De_León"
+              stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -529.334473,661.157654 C -379.677856,659.808167 -153.168732,882.268921 -151.819275,1031.925537"
+              class="id_Ramón_Minguez_Vallejos id_Arizona_State_University"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 626.814453,528.899719 C 571.692871,785.231628 104.512634,1087.047119 -151.819275,1031.925537"
+              class="id_Raquel_Rubio-Goldsmith id_Arizona_State_University"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.143250,206.833328 C 731.059509,-108.453812 1461.864624,-323.510101 1777.151733,-151.593826"
+              class="id_Teresita_Higashi_Villalvazo id_Escuela_de_Humanidades_Mexicali"
+              stroke-opacity="1.0" stroke="#a54d61"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.143250,206.833328 C 545.676758,572.599976 -23.173050,1101.050171 -388.939697,1087.583618"
+              class="id_Teresita_Higashi_Villalvazo id_RIDIPD"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.143250,206.833328 C 101.486801,594.236694 -1166.102783,488.857056 -1553.506104,31.200623"
+              class="id_Teresita_Higashi_Villalvazo id_José_Luis_Bonilla_Esquivel"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.143250,206.833328 C 859.631775,-139.860611 1830.405518,-209.168762 2177.099365,91.319733"
+              class="id_Teresita_Higashi_Villalvazo id_Daniela_Patricia_Diaz_Flores"
+              stroke-opacity="1.0" stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.143250,206.833328 C 640.767334,213.250137 753.578308,345.311523 747.161499,426.935669"
+              class="id_Teresita_Higashi_Villalvazo id_Alberto_Gárate_Rivera"
+              stroke-opacity="1.0" stroke="#ff5584"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3849.659424,889.745850 C -3903.659180,739.924255 -3759.926270,434.192200 -3610.104736,380.192474"
+              class="id_Universidad_de_Guadalajara id_Esmeralda_Matute_Villaseñor"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3849.659424,889.745850 C -3994.841797,834.412476 -4129.614746,533.639099 -4074.281738,388.456848"
+              class="id_Universidad_de_Guadalajara id_Beatriz_Beltran_Navarro"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -501.236237,775.982727 C -529.820923,758.637329 -546.679871,689.742310 -529.334473,661.157654"
+              class="id_Universidad_de_Murcia id_Ramón_Minguez_Vallejos"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -176.074112,742.175781 C -172.796951,652.568054 -33.469543,523.072144 56.138214,526.349304"
+              class="id_Universidad_de_Sonora id_Ramiro_Avila_Godoy"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -176.074112,742.175781 C -194.581223,619.539307 -38.387199,407.823914 84.249275,389.316833"
+              class="id_Universidad_de_Sonora id_Ana_Gabriela_Kong_Toledo"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -176.074112,742.175781 C -188.555206,706.494446 -153.754837,634.250793 -118.073486,621.769653"
+              class="id_Universidad_de_Sonora id_Ana_Maricell_Estada_Ureña"
+              stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -452.233124,40.319702 C -381.466888,115.594772 -388.230133,334.656708 -463.505219,405.422943"
+              class="id_Cecilia_Osuna_Lever id_1" stroke-opacity="1.0"
+              stroke="#6f447f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3705.428223,109.303879 C -3579.117432,-113.839767 -3054.936035,-259.089081 -2831.792236,-132.778320"
+              class="id_0 id_Escuela_de_Psicología_Tijuana" stroke-opacity="1.0"
+              stroke="#7f2a42"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3705.428223,109.303879 C -3632.185791,144.416901 -3574.991699,306.950043 -3610.104736,380.192474"
+              class="id_0 id_Esmeralda_Matute_Villaseñor" stroke-opacity="1.0"
+              stroke="#606060"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -3705.428223,109.303879 C -3723.368408,238.905167 -3944.680420,406.396973 -4074.281738,388.456848"
+              class="id_0 id_Beatriz_Beltran_Navarro" stroke-opacity="1.0"
+              stroke="#606060"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -2234.671631,127.659760 C -2406.183350,194.996262 -2764.455811,38.733414 -2831.792236,-132.778320"
+              class="id_Daniel_Nikolaus_Álvarez_Nuñez id_Escuela_de_Psicología_Tijuana"
+              stroke-opacity="1.0" stroke="#7f8cc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 840.956116,-275.777039 C 623.515259,-127.836807 75.443558,-232.087753 -72.496689,-449.528656"
+              class="id_2 id_CETYS_Universidad_Campus_Ensenada"
+              stroke-opacity="1.0" stroke="#6f447f"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.143250,206.833328 C 637.090759,257.712372 677.693481,450.952209 626.814453,528.899719"
+              class="id_Teresita_Higashi_Villalvazo id_Raquel_Rubio-Goldsmith"
+              stroke-opacity="1.0" stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.143250,206.833328 C 634.826965,238.952972 700.172974,400.657928 668.053345,476.341614"
+              class="id_Teresita_Higashi_Villalvazo id_Celestino_Fernández"
+              stroke-opacity="1.0" stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 559.143250,206.833328 C 432.312561,515.393738 -220.774048,787.988342 -529.334473,661.157654"
+              class="id_Teresita_Higashi_Villalvazo id_Ramón_Minguez_Vallejos"
+              stroke-opacity="1.0" stroke="#ef6fc1"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1914.106812,196.376999 C -2163.474854,314.083008 -2714.086182,116.589821 -2831.792236,-132.778320"
+              class="id_Manuel_Alejandro_Mejía_Ramírez id_Escuela_de_Psicología_Tijuana"
+              stroke-opacity="1.0" stroke="#7f898c"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 877.264099,-16.603714 C 818.167847,-61.176788 796.383057,-216.680771 840.956116,-275.777039"
+              class="id_Mayer_Rainiero_Cabrera_Flores id_2" stroke-opacity="1.0"
+              stroke="#26231f"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="4176.953"
+                class="id_AMANDA_COLUMBA_REAL_BELTRAN" cy="123.19336"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="3421.6643"
+                class="id_Escuela_de_Derecho_Mexicali" cy="-175.08109"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-1907.4509"
+                class="id_Antonieta_Bobes_León" cy="557.125" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-1863.9313"
+                class="id_Instituto_de_Neurociencias_de_Cuba" cy="981.54333"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="958.4281"
+                class="id_Carlos_Antonio_González_Palacios" cy="274.48746"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1777.1517"
+                class="id_Escuela_de_Humanidades_Mexicali" cy="-151.59383"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="848.15857"
+                class="id_COBINA_A.C" cy="673.02496" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="868.02344"
+                class="id_Sistema_Educativo_Estatal" cy="762.5254"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="832.8476"
+                class="id_IAMSA" cy="591.12317" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-452.23312"
+                class="id_Cecilia_Osuna_Lever" cy="40.319702" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-251.8068"
+                class="id_Educación_Ensenada" cy="-282.79138" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-501.23624"
+                class="id_Universidad_de_Murcia" cy="775.9827" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-328.4915"
+                class="id_Maria_Eugenia_Medina_Barrios" cy="513.0408"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="668.05334"
+                class="id_Celestino_Fernández" cy="476.3416" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-151.81927"
+                class="id_Arizona_State_University" cy="1031.9255"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-79.79494"
+                class="id_CETYS_UNIVERSIDAD" cy="-688.5177" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-1895.8309"
+                class="id_CETYS_Universidad_Campus_Tijuana" cy="-383.5949"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2259.6455"
+                class="id_CETYS_Universidad_Campus_Mexicali" cy="-411.37775"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-72.49669"
+                class="id_CETYS_Universidad_Campus_Ensenada" cy="-449.52866"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="76.91764"
+                class="id_Escuela_de_Psicología_Ensenada" cy="-316.78946"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="409.97003"
+                class="id_Escuela_de_Humanidades_Ensenada" cy="-266.702"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-559.8229"
+                class="id_Escuela_de_Derecho_Ensenada" cy="-260.3647"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2484.1362"
+                class="id_Escuela_de_Psicología_Mexicali" cy="-171.92514"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="1154.9065"
+                class="id_Educación_Mexicali" cy="-191.84857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-2831.7922"
+                class="id_Escuela_de_Psicología_Tijuana" cy="-132.77832"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-787.418"
+                class="id_Escuela_de_Humanidades_Tijuana" cy="-136.47206"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-1303.521"
+                class="id_Escuela_de_Derecho_Tijuana" cy="-136.13057"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-1736.8296"
+                class="id_Educación_Tijuana" cy="-139.64131" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2177.0994"
+                class="id_Daniela_Patricia_Diaz_Flores" cy="91.31973"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="43.35013"
+                class="id_Universidad_Autónoma_de_Baja_California" cy="922.1526"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2291.542"
+                class="id_Universidad_Autónoma_de_Nayarit" cy="783.4135"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2496.768"
+                class="id_Universidad_Michoacana" cy="692.4291" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2340.9229"
+                class="id_Universidad_de_Guanajuato" cy="600.6738"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2805.057"
+                class="id_Universidad_Autónoma_de_Aguascalientes" cy="833.4525"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2276.1133"
+                class="id_Universidad_Autónoma_del_Estado_de_Morelos"
+                cy="896.10187" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2242.5784"
+                class="id_CONACyT" cy="434.8089" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="394.23224"
+                class="id_David_Alejandro_Ornelas_Gutiérrez" cy="47.662918"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-388.9397"
+                class="id_RIDIPD" cy="1087.5836" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-1026.7545"
+                class="id_Dora_Yéssica_Caudillo_Ruiz" cy="-15.77858"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-466.32104"
+                class="id_Edgar_Antonio_Madrid" cy="165.27666" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-547.69867"
+                class="id_Observatorio_Filosófico_del_Norte" cy="323.4092"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-706.31384"
+                class="id_Centro_32" cy="268.087" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-807.8934"
+                class="id_Instituto_Municipal_de_la_Mujer" cy="1012.9833"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1160.7971"
+                class="id_Francisco_Alberto_Núñez_Tapia" cy="193.67928"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1159.0369"
+                class="id_El_Colegio_de_la_Frontera_Norte" cy="566.081"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-1221.3549"
+                class="id_Jorge_Francisco_Sánchez_López" cy="221.85965"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="877.2641"
+                class="id_Mayer_Rainiero_Cabrera_Flores" cy="-16.603714"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-2697.5276"
+                class="id_Gustavo_Morelos_Padilla_Gallegos" cy="166.24231"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-1309.7024"
+                class="id_Heberto_X_Peterson_R" cy="108.21597" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-3160.9658"
+                class="id_Hernán_Partida_Ramírez" cy="118.1241" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-856.19586"
+                class="id_CNEIP" cy="1476.4868" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-2869.7993"
+                class="id_RIEFBC" cy="566.4974" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-2639.8696"
+                class="id_Instituto_Municipal_Contra_las_Adicciones"
+                cy="667.30066" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-3257.0403"
+                class="id_Instituto_Contra_las_Adicciones_de_BC" cy="550.18805"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-2827.9692"
+                class="id_Centro_de_Integración_Juvenil" cy="503.66022"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-2484.0518"
+                class="id_Hospital_de_Salud_Mental_de_Tijuana" cy="554.81335"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-3205.6753"
+                class="id_Comisión_Estatal_del_Sistema_Penitenciario"
+                cy="451.0514" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="-3106.9023"
+                class="id_Centro_Espacio_Mente_Sana" cy="609.9725"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="3514.5999"
+                class="id_IBZA_AMERICA_GARCIA_LEON" cy="136.19086"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-878.1355"
+                class="id_Ingrid_Kuri_Alonso" cy="178.40703" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-1140.933"
+                class="id_INNSIGNIA" cy="327.2441" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="2598.0667"
+                class="id_Ivon_Aidé_Guerrero_Ceballos" cy="147.30664"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="2799.5728"
+                class="id_Educación_Solidaria_de_las_Californias" cy="503.36276"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="2991.259"
+                class="id_Gulfstream" cy="435.31024" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="10.0" cx="2658.524"
+                class="id_AUTOPasion" cy="448.72186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1524.1212"
+                class="id_Jorge_Arturo_Ortega_Acevedo" cy="282.7761"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1368.4906"
+                class="id_Secretaría_de_Cultura_de_México" cy="808.04517"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1414.0632"
+                class="id_Secretaría_de_Cultura_de_Baja_California"
+                cy="870.6709" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1344.2305"
+                class="id_Secretaría_de_Cultura_de_Jalisco" cy="717.3287"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1307.7301"
+                class="id_Instituto_Sinaloense_de_Cultura" cy="644.0922"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-1271.0758"
+                class="id_Sistema_Local_de_Prevención_de_la_Violencia"
+                cy="777.81854" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-1553.5061"
+                class="id_José_Luis_Bonilla_Esquivel" cy="31.200623"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-738.805"
+                class="id_José_Luis_Espinosa_Garza" cy="91.31688"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-961.87634"
+                class="id_Promotora_de_Bellas_Artes" cy="557.62854"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-953.7845"
+                class="id_Create_Purpose" cy="630.0408" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-922.4645"
+                class="id_Best_Buddies" cy="380.98398" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-796.32623"
+                class="id_Pro-Salud" cy="431.22217" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="10.0" cx="-943.3454"
+                class="id_Sonoran_Institute" cy="482.45416" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="2965.792"
+                class="id_Josman_Espinosa_Gómez" cy="79.951675" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="3223.081"
+                class="id_FIMPES" cy="463.5112" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="10.0" cx="-2234.6716"
+                class="id_Daniel_Nikolaus_Álvarez_Nuñez" cy="127.65976"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-112.24283"
+                class="id_karla_maria_diaz_lopez" cy="27.395714"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-192.0095"
+                class="id_Universidad_Complutense_de_Madrid" cy="870.23505"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="30.52185"
+                class="id_Sístema_Educativo_Estatal_sede_Ensenada" cy="449.976"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="56.138214"
+                class="id_Ramiro_Avila_Godoy" cy="526.3493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="84.249275"
+                class="id_Ana_Gabriela_Kong_Toledo" cy="389.31683"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-118.07349"
+                class="id_Ana_Maricell_Estada_Ureña" cy="621.76965"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="10.0" cx="1525.1697"
+                class="id_Liliana_López_León" cy="108.32239" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-1914.1068"
+                class="id_Manuel_Alejandro_Mejía_Ramírez" cy="196.377"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-1536.3004"
+                class="id_Universidad_Pontificia_de_Salamanca" cy="463.4513"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-1716.1156"
+                class="id_Colegio_de_Psicólogos_de_Baja_California"
+                cy="502.97028" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-1833.7126"
+                class="id_Comité_para_organizar_al_Colegio_de_Neuropsicólogos_de_Tijuana"
+                cy="629.9311" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="10.0" cx="-2036.9672"
+                class="id_Asociación_de_Alzheimer." cy="442.7499"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1771.1892"
+                class="id_María_Cecilia_Angélica_Contreras_Trejo" cy="184.16914"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1842.7875"
+                class="id_El_Buen_Pastor" cy="509.69867" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1835.8691"
+                class="id_Hele_Keller" cy="766.7614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1888.3052"
+                class="id_TMONA" cy="586.70575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1820.4083"
+                class="id_Gente_por_los_animales" cy="629.05054"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1959.921"
+                class="id_CAHOVA" cy="675.62384" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1857.6626"
+                class="id_Abuela_Cachanilla" cy="448.12744" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="1838.5027"
+                class="id_Secretaría_de_Economía_Sustentable_y_Turismo_del_Estado_de_B.C."
+                cy="989.9179" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="-1791.0968"
+                class="id_Melanie_Elizabeth_Montes_Silva" cy="82.2234"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="147.07959"
+                class="id_Mónica_Inés_Monsiváis_Almada" cy="110.43092"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="298.10287"
+                class="id_Casa_Hogar_Santa_Teresita" cy="777.4768"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="358.50705"
+                class="id_Escuela_Primaria_Maestros_de_Baja_California"
+                cy="829.66644" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="314.21872"
+                class="id_Albergue_Temeporal_de_Niños" cy="697.0167"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="347.6197"
+                class="id_Casa_Hogar_del_anciano" cy="595.99194"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="10.0" cx="334.8545"
+                class="id_Roxana_Gutiérrez_De_León" cy="644.6363"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-529.3345"
+                class="id_Ramón_Minguez_Vallejos" cy="661.15765"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="626.81445"
+                class="id_Raquel_Rubio-Goldsmith" cy="528.8997" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="559.14325"
+                class="id_Teresita_Higashi_Villalvazo" cy="206.83333"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="10.0" cx="747.1615"
+                class="id_Alberto_Gárate_Rivera" cy="426.93567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-3849.6594"
+                class="id_Universidad_de_Guadalajara" cy="889.74585"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-3610.1047"
+                class="id_Esmeralda_Matute_Villaseñor" cy="380.19247"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="10.0" cx="-4074.2817"
+                class="id_Beatriz_Beltran_Navarro" cy="388.45685"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-176.07411"
+                class="id_Universidad_de_Sonora" cy="742.1758" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-3705.4282"
+                class="id_0" cy="109.30388" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="-463.50522"
+                class="id_1" cy="405.42294" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#000000" r="10.0" cx="840.9561"
+                class="id_2" cy="-275.77704" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="4176.953" y="127.63867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_AMANDA_COLUMBA_REAL_BELTRAN">
+            AMANDA COLUMBA REAL BELTRAN
+        </text>
+        <text font-size="24" x="3421.6643" y="-170.71585" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Derecho_Mexicali">
+            Escuela de Derecho Mexicali
+        </text>
+        <text font-size="24" x="-1907.4509" y="561.5137" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Antonieta_Bobes_León">
+            Antonieta Bobes León
+        </text>
+        <text font-size="24" x="-1863.9313" y="985.9867" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Instituto_de_Neurociencias_de_Cuba">
+            Instituto de Neurociencias de Cuba
+        </text>
+        <text font-size="24" x="958.4281" y="278.93082" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Carlos_Antonio_González_Palacios">
+            Carlos Antonio González Palacios
+        </text>
+        <text font-size="24" x="1777.1517" y="-147.22859" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Humanidades_Mexicali">
+            Escuela de Humanidades Mexicali
+        </text>
+        <text font-size="24" x="848.15857" y="677.4703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_COBINA_A.C">
+            COBINA A.C
+        </text>
+        <text font-size="24" x="868.02344" y="766.96875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sistema_Educativo_Estatal">
+            Sistema Educativo Estatal
+        </text>
+        <text font-size="24" x="832.8476" y="595.5665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_IAMSA">
+            IAMSA
+        </text>
+        <text font-size="24" x="-452.23312" y="44.765015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cecilia_Osuna_Lever">
+            Cecilia Osuna Lever
+        </text>
+        <text font-size="24" x="-251.8068" y="-278.4027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Educación_Ensenada">
+            Educación Ensenada
+        </text>
+        <text font-size="24" x="-501.23624" y="780.35187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universidad_de_Murcia">
+            Universidad de Murcia
+        </text>
+        <text font-size="24" x="-328.4915" y="518.59937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Maria_Eugenia_Medina_Barrios">
+            Maria Eugenia Medina Barrios
+        </text>
+        <text font-size="24" x="668.05334" y="480.78497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Celestino_Fernández">
+            Celestino Fernández
+        </text>
+        <text font-size="24" x="-151.81927" y="1037.5583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Arizona_State_University">
+            Arizona State University
+        </text>
+        <text font-size="24" x="-79.79494" y="-684.07434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CETYS_UNIVERSIDAD">
+            CETYS UNIVERSIDAD
+        </text>
+        <text font-size="24" x="-1895.8309" y="-377.9621" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CETYS_Universidad_Campus_Tijuana">
+            CETYS Universidad Campus Tijuana
+        </text>
+        <text font-size="24" x="2259.6455" y="-405.81525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CETYS_Universidad_Campus_Mexicali">
+            CETYS Universidad Campus Mexicali
+        </text>
+        <text font-size="24" x="-72.49669" y="-443.96616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CETYS_Universidad_Campus_Ensenada">
+            CETYS Universidad Campus Ensenada
+        </text>
+        <text font-size="24" x="76.91764" y="-311.20743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Psicología_Ensenada">
+            Escuela de Psicología Ensenada
+        </text>
+        <text font-size="24" x="409.97003" y="-262.33676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Humanidades_Ensenada">
+            Escuela de Humanidades Ensenada
+        </text>
+        <text font-size="24" x="-559.8229" y="-255.99945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Derecho_Ensenada">
+            Escuela de Derecho Ensenada
+        </text>
+        <text font-size="24" x="2484.1362" y="-166.34311" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Psicología_Mexicali">
+            Escuela de Psicología Mexicali
+        </text>
+        <text font-size="24" x="1154.9065" y="-187.4599" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Educación_Mexicali">
+            Educación Mexicali
+        </text>
+        <text font-size="24" x="-2831.7922" y="-127.19629" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Psicología_Tijuana">
+            Escuela de Psicología Tijuana
+        </text>
+        <text font-size="24" x="-787.418" y="-130.91347" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Humanidades_Tijuana">
+            Escuela de Humanidades Tijuana
+        </text>
+        <text font-size="24" x="-1303.521" y="-130.57198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Escuela_de_Derecho_Tijuana">
+            Escuela de Derecho Tijuana
+        </text>
+        <text font-size="24" x="-1736.8296" y="-134.05928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Educación_Tijuana">
+            Educación Tijuana
+        </text>
+        <text font-size="24" x="2177.0994" y="95.68497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Daniela_Patricia_Diaz_Flores">
+            Daniela Patricia Diaz Flores
+        </text>
+        <text font-size="24" x="43.35013" y="927.7854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Universidad_Autónoma_de_Baja_California">
+            Universidad Autónoma de Baja California
+        </text>
+        <text font-size="24" x="2291.542" y="788.99554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universidad_Autónoma_de_Nayarit">
+            Universidad Autónoma de Nayarit
+        </text>
+        <text font-size="24" x="2496.768" y="696.7982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universidad_Michoacana">
+            Universidad Michoacana
+        </text>
+        <text font-size="24" x="2340.9229" y="606.30664" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universidad_de_Guanajuato">
+            Universidad de Guanajuato
+        </text>
+        <text font-size="24" x="2805.057" y="839.03455" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Universidad_Autónoma_de_Aguascalientes">
+            Universidad Autónoma de Aguascalientes
+        </text>
+        <text font-size="24" x="2276.1133" y="900.49445" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Universidad_Autónoma_del_Estado_de_Morelos">
+            Universidad Autónoma del Estado de Morelos
+        </text>
+        <text font-size="24" x="2242.5784" y="440.44366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CONACyT">
+            CONACyT
+        </text>
+        <text font-size="24" x="394.23224" y="53.297684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_David_Alejandro_Ornelas_Gutiérrez">
+            David Alejandro Ornelas Gutiérrez
+        </text>
+        <text font-size="24" x="-388.9397" y="1091.8785" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RIDIPD">
+            RIDIPD
+        </text>
+        <text font-size="24" x="-1026.7545" y="-11.33522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dora_Yéssica_Caudillo_Ruiz">
+            Dora Yéssica Caudillo Ruiz
+        </text>
+        <text font-size="24" x="-466.32104" y="170.83525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edgar_Antonio_Madrid">
+            Edgar Antonio Madrid
+        </text>
+        <text font-size="24" x="-547.69867" y="327.85452" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Observatorio_Filosófico_del_Norte">
+            Observatorio Filosófico del Norte
+        </text>
+        <text font-size="24" x="-706.31384" y="272.53232" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Centro_32">
+            Centro 32
+        </text>
+        <text font-size="24" x="-807.8934" y="1018.5419" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Instituto_Municipal_de_la_Mujer">
+            Instituto Municipal de la Mujer
+        </text>
+        <text font-size="24" x="1160.7971" y="199.191" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Francisco_Alberto_Núñez_Tapia">
+            Francisco Alberto Núñez Tapia
+        </text>
+        <text font-size="24" x="1159.0369" y="571.7138" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_Colegio_de_la_Frontera_Norte">
+            El Colegio de la Frontera Norte
+        </text>
+        <text font-size="24" x="-1221.3549" y="227.49246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jorge_Francisco_Sánchez_López">
+            Jorge Francisco Sánchez López
+        </text>
+        <text font-size="24" x="877.2641" y="-10.9709015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mayer_Rainiero_Cabrera_Flores">
+            Mayer Rainiero Cabrera Flores
+        </text>
+        <text font-size="24" x="-2697.5276" y="171.87512" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gustavo_Morelos_Padilla_Gallegos">
+            Gustavo Morelos Padilla Gallegos
+        </text>
+        <text font-size="24" x="-1309.7024" y="112.58121" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Heberto_X_Peterson_R">
+            Heberto X Peterson R
+        </text>
+        <text font-size="24" x="-3160.9658" y="122.51277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hernán_Partida_Ramírez">
+            Hernán Partida Ramírez
+        </text>
+        <text font-size="24" x="-856.19586" y="1480.9302" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CNEIP">
+            CNEIP
+        </text>
+        <text font-size="24" x="-2869.7993" y="570.94073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_RIEFBC">
+            RIEFBC
+        </text>
+        <text font-size="24" x="-2639.8696" y="672.86316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Instituto_Municipal_Contra_las_Adicciones">
+            Instituto Municipal Contra las Adicciones
+        </text>
+        <text font-size="24" x="-3257.0403" y="554.6314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Instituto_Contra_las_Adicciones_de_BC">
+            Instituto Contra las Adicciones de BC
+        </text>
+        <text font-size="24" x="-2827.9692" y="509.29303" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Centro_de_Integración_Juvenil">
+            Centro de Integración Juvenil
+        </text>
+        <text font-size="24" x="-2484.0518" y="560.44617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hospital_de_Salud_Mental_de_Tijuana">
+            Hospital de Salud Mental de Tijuana
+        </text>
+        <text font-size="24" x="-3205.6753" y="455.49475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Comisión_Estatal_del_Sistema_Penitenciario">
+            Comisión Estatal del Sistema Penitenciario
+        </text>
+        <text font-size="24" x="-3106.9023" y="615.535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Centro_Espacio_Mente_Sana">
+            Centro Espacio Mente Sana
+        </text>
+        <text font-size="24" x="3514.5999" y="140.63617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_IBZA_AMERICA_GARCIA_LEON">
+            IBZA AMERICA GARCIA LEON
+        </text>
+        <text font-size="24" x="-878.1355" y="183.96562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ingrid_Kuri_Alonso">
+            Ingrid Kuri Alonso
+        </text>
+        <text font-size="24" x="-1140.933" y="331.68747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_INNSIGNIA">
+            INNSIGNIA
+        </text>
+        <text font-size="24" x="2598.0667" y="151.75" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ivon_Aidé_Guerrero_Ceballos">
+            Ivon Aidé Guerrero Ceballos
+        </text>
+        <text font-size="24" x="2799.5728" y="507.80612" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Educación_Solidaria_de_las_Californias">
+            Educación Solidaria de las Californias
+        </text>
+        <text font-size="24" x="2991.259" y="439.7536" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gulfstream">
+            Gulfstream
+        </text>
+        <text font-size="24" x="2658.524" y="453.16718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_AUTOPasion">
+            AUTOPasion
+        </text>
+        <text font-size="24" x="1524.1212" y="288.41086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jorge_Arturo_Ortega_Acevedo">
+            Jorge Arturo Ortega Acevedo
+        </text>
+        <text font-size="24" x="1368.4906" y="812.4885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Secretaría_de_Cultura_de_México">
+            Secretaría de Cultura de México
+        </text>
+        <text font-size="24" x="1414.0632" y="876.3037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Secretaría_de_Cultura_de_Baja_California">
+            Secretaría de Cultura de Baja California
+        </text>
+        <text font-size="24" x="1344.2305" y="721.77203" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Secretaría_de_Cultura_de_Jalisco">
+            Secretaría de Cultura de Jalisco
+        </text>
+        <text font-size="24" x="1307.7301" y="648.5356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Instituto_Sinaloense_de_Cultura">
+            Instituto Sinaloense de Cultura
+        </text>
+        <text font-size="24" x="-1271.0758" y="782.2619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Sistema_Local_de_Prevención_de_la_Violencia">
+            Sistema Local de Prevención de la Violencia
+        </text>
+        <text font-size="24" x="-1553.5061" y="36.71234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_José_Luis_Bonilla_Esquivel">
+            José Luis Bonilla Esquivel
+        </text>
+        <text font-size="24" x="-738.805" y="96.87938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_José_Luis_Espinosa_Garza">
+            José Luis Espinosa Garza
+        </text>
+        <text font-size="24" x="-961.87634" y="561.9938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Promotora_de_Bellas_Artes">
+            Promotora de Bellas Artes
+        </text>
+        <text font-size="24" x="-953.7845" y="635.6033" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Create_Purpose">
+            Create Purpose
+        </text>
+        <text font-size="24" x="-922.4645" y="385.3492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Best_Buddies">
+            Best Buddies
+        </text>
+        <text font-size="24" x="-796.32623" y="435.66553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pro-Salud">
+            Pro-Salud
+        </text>
+        <text font-size="24" x="-943.3454" y="486.89752" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sonoran_Institute">
+            Sonoran Institute
+        </text>
+        <text font-size="24" x="2965.792" y="85.514175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Josman_Espinosa_Gómez">
+            Josman Espinosa Gómez
+        </text>
+        <text font-size="24" x="3223.081" y="467.95456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_FIMPES">
+            FIMPES
+        </text>
+        <text font-size="24" x="-2234.6716" y="133.10898" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Daniel_Nikolaus_Álvarez_Nuñez">
+            Daniel Nikolaus Álvarez Nuñez
+        </text>
+        <text font-size="24" x="-112.24283" y="32.883995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_karla_maria_diaz_lopez">
+            karla maria diaz lopez
+        </text>
+        <text font-size="24" x="-192.0095" y="875.79755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universidad_Complutense_de_Madrid">
+            Universidad Complutense de Madrid
+        </text>
+        <text font-size="24" x="30.52185" y="454.41937" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Sístema_Educativo_Estatal_sede_Ensenada">
+            Sístema Educativo Estatal sede Ensenada
+        </text>
+        <text font-size="24" x="56.138214" y="531.9821" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ramiro_Avila_Godoy">
+            Ramiro Avila Godoy
+        </text>
+        <text font-size="24" x="84.249275" y="394.94965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ana_Gabriela_Kong_Toledo">
+            Ana Gabriela Kong Toledo
+        </text>
+        <text font-size="24" x="-118.07349" y="626.1388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ana_Maricell_Estada_Ureña">
+            Ana Maricell Estada Ureña
+        </text>
+        <text font-size="24" x="1525.1697" y="113.83411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Liliana_López_León">
+            Liliana López León
+        </text>
+        <text font-size="24" x="-1914.1068" y="201.95903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Manuel_Alejandro_Mejía_Ramírez">
+            Manuel Alejandro Mejía Ramírez
+        </text>
+        <text font-size="24" x="-1536.3004" y="467.89465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universidad_Pontificia_de_Salamanca">
+            Universidad Pontificia de Salamanca
+        </text>
+        <text font-size="24" x="-1716.1156" y="508.6031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Colegio_de_Psicólogos_de_Baja_California">
+            Colegio de Psicólogos de Baja California
+        </text>
+        <text font-size="24" x="-1833.7126" y="635.5639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Comité_para_organizar_al_Colegio_de_Neuropsicólogos_de_Tijuana">
+            Comité para organizar al Colegio de Neuropsicólogos de Tijuana
+        </text>
+        <text font-size="24" x="-2036.9672" y="447.13858" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Asociación_de_Alzheimer.">
+            Asociación de Alzheimer.
+        </text>
+        <text font-size="24" x="1771.1892" y="189.80196" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_María_Cecilia_Angélica_Contreras_Trejo">
+            María Cecilia Angélica Contreras Trejo
+        </text>
+        <text font-size="24" x="1842.7875" y="514.0639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_El_Buen_Pastor">
+            El Buen Pastor
+        </text>
+        <text font-size="24" x="1835.8691" y="771.12665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hele_Keller">
+            Hele Keller
+        </text>
+        <text font-size="24" x="1888.3052" y="591.15106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_TMONA">
+            TMONA
+        </text>
+        <text font-size="24" x="1820.4083" y="634.61304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Gente_por_los_animales">
+            Gente por los animales
+        </text>
+        <text font-size="24" x="1959.921" y="680.06915" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_CAHOVA">
+            CAHOVA
+        </text>
+        <text font-size="24" x="1857.6626" y="452.5708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Abuela_Cachanilla">
+            Abuela Cachanilla
+        </text>
+        <text font-size="24" x="1838.5027" y="995.5507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Secretaría_de_Economía_Sustentable_y_Turismo_del_Estado_de_B.C.">
+            Secretaría de Economía Sustentable y Turismo del Estado de B.C.
+        </text>
+        <text font-size="24" x="-1791.0968" y="86.666756" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Melanie_Elizabeth_Montes_Silva">
+            Melanie Elizabeth Montes Silva
+        </text>
+        <text font-size="24" x="147.07959" y="114.819595" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mónica_Inés_Monsiváis_Almada">
+            Mónica Inés Monsiváis Almada
+        </text>
+        <text font-size="24" x="298.10287" y="783.1096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Casa_Hogar_Santa_Teresita">
+            Casa Hogar Santa Teresita
+        </text>
+        <text font-size="24" x="358.50705" y="835.29926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Escuela_Primaria_Maestros_de_Baja_California">
+            Escuela Primaria Maestros de Baja California
+        </text>
+        <text font-size="24" x="314.21872" y="702.5753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Albergue_Temeporal_de_Niños">
+            Albergue Temeporal de Niños
+        </text>
+        <text font-size="24" x="347.6197" y="601.62476" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Casa_Hogar_del_anciano">
+            Casa Hogar del anciano
+        </text>
+        <text font-size="24" x="334.8545" y="649.07965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roxana_Gutiérrez_De_León">
+            Roxana Gutiérrez De León
+        </text>
+        <text font-size="24" x="-529.3345" y="666.7397" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ramón_Minguez_Vallejos">
+            Ramón Minguez Vallejos
+        </text>
+        <text font-size="24" x="626.81445" y="534.4622" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Raquel_Rubio-Goldsmith">
+            Raquel Rubio-Goldsmith
+        </text>
+        <text font-size="24" x="559.14325" y="212.39192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Teresita_Higashi_Villalvazo">
+            Teresita Higashi Villalvazo
+        </text>
+        <text font-size="24" x="747.1615" y="431.37903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Alberto_Gárate_Rivera">
+            Alberto Gárate Rivera
+        </text>
+        <text font-size="24" x="-3849.6594" y="895.37866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universidad_de_Guadalajara">
+            Universidad de Guadalajara
+        </text>
+        <text font-size="24" x="-3610.1047" y="384.5577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Esmeralda_Matute_Villaseñor">
+            Esmeralda Matute Villaseñor
+        </text>
+        <text font-size="24" x="-4074.2817" y="392.82208" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Beatriz_Beltran_Navarro">
+            Beatriz Beltran Navarro
+        </text>
+        <text font-size="24" x="-176.07411" y="746.61914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Universidad_de_Sonora">
+            Universidad de Sonora
+        </text>
+        <text font-size="24" x="-3705.4282" y="113.66911" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_0">
+            Marina Alvelais Alarcon
+        </text>
+        <text font-size="24" x="-463.50522" y="409.8663" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_1">
+            Eduardo Romero Sánhez
+        </text>
+        <text font-size="24" x="840.9561" y="-271.33368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_2">
+            CETYS GSB
+        </text>
+    </g>
+</svg>
